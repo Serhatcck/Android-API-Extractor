@@ -1,6 +1,6 @@
-# Retrofit and OkHttp3 Annotation Analyzer
+# Android-API-Extractor
 
-Retrofit and OkHttp3 Annotation Analyzer is a Python script that facilitates the analysis of Android APKs, extracting Retrofit HTTP method annotations and OkHttp3 variables from the smali code. This tool provides insights into the API endpoints and network-related components used within the APK, allowing for easy examination and integration into different toolsets.
+Android-API-Extractor is a Python script that facilitates the analysis of Android APKs, extracting Retrofit HTTP method annotations and OkHttp3 variables from the smali code. This tool provides insights into the API endpoints and network-related components used within the APK, allowing for easy examination and integration into different toolsets.
 
 ## Features
 
