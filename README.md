@@ -24,7 +24,7 @@ Retrofit and OkHttp3 Annotation Analyzer is a Python script that facilitates the
 To get started, follow these steps:
 
 1. Install `apktool` if you haven't already.
-2. Clone this repository or download the `analyze_annotations.py` script.
+2. Clone this repository or download the `analyze_apk.py` script.
 3. Open your terminal or command prompt.
 4. Navigate to the directory containing the script.
 5. Run the script using the provided options. Example:
