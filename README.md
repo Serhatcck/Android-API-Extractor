@@ -30,4 +30,4 @@ To get started, follow these steps:
 5. Run the script using the provided options. Example:
 
    ```shell
-   python analyze_annotations.py -apk my_app.apk -o output.txt
+   python analyze_apk.py -apk my_app.apk -o output.txt
